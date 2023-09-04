@@ -1,5 +1,5 @@
 package sample;
-
+//Practice test
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 //done by geeta
