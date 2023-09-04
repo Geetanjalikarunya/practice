@@ -2,7 +2,7 @@ package sample;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
-
+//done by geeta
 public class test2 {
 	@Test
 	public void test1() {
